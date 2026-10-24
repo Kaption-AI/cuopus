@@ -5,6 +5,8 @@
 **A bit-exact CUDA port of the libopus 1.5.2 decoder.**
 Decode OGG/Opus entirely on the GPU — output byte-for-byte identical to the reference implementation.
 
+Built by [Kaption AI](https://kaptionai.com).
+
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](LICENSE)
 [![CUDA](https://img.shields.io/badge/CUDA-12.x%2B-76b900.svg)](#build)
 [![libopus](https://img.shields.io/badge/libopus-1.5.2-orange.svg)](https://opus-codec.org/)
